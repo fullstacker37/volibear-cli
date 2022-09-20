@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/fullstacker37/volibear-cli/issues"
   },
-  "homepage": "https://github.com/fullstacker37/volibear-cli#readme"
+  "homepage": "https://github.com/fullstacker37/volibear-cli#readme",
+  "devDependencies": {
+    "commander": "^9.4.0"
+  }
 }
