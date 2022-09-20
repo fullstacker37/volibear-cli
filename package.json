@@ -20,7 +20,9 @@
     "url": "https://github.com/fullstacker37/volibear-cli/issues"
   },
   "homepage": "https://github.com/fullstacker37/volibear-cli#readme",
-  "devDependencies": {
-    "commander": "^9.4.0"
+  "devDependencies": {},
+  "dependencies": {
+    "commander": "^9.4.0",
+    "inquirer": "^8.0.0"
   }
 }
